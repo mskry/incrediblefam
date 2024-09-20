@@ -68,7 +68,7 @@ export default {
   },
   modules: ["@nuxtjs/robots", "@nuxtjs/markdownit", "@nuxtjs/bulma", "@nuxtjs/sitemap"],
   buildModules: ["@nuxtjs/dotenv", ['@nuxtjs/google-analytics', {
-    id: 'UA-165695345-1'
+    id: 'G-9MWVJPQL6L'
   }]],
   robots: () => {
     return {
